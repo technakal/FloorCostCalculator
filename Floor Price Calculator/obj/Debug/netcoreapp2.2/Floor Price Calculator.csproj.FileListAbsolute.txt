@@ -1,0 +1,11 @@
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\bin\Debug\netcoreapp2.2\Floor Price Calculator.deps.json
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\bin\Debug\netcoreapp2.2\Floor Price Calculator.runtimeconfig.json
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\bin\Debug\netcoreapp2.2\Floor Price Calculator.runtimeconfig.dev.json
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\bin\Debug\netcoreapp2.2\Floor Price Calculator.dll
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\bin\Debug\netcoreapp2.2\Floor Price Calculator.pdb
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\obj\Debug\netcoreapp2.2\Floor Price Calculator.csprojAssemblyReference.cache
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\obj\Debug\netcoreapp2.2\Floor Price Calculator.csproj.CoreCompileInputs.cache
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\obj\Debug\netcoreapp2.2\Floor Price Calculator.AssemblyInfoInputs.cache
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\obj\Debug\netcoreapp2.2\Floor Price Calculator.AssemblyInfo.cs
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\obj\Debug\netcoreapp2.2\Floor Price Calculator.dll
+H:\Developer Projects\Repos\FloorPriceCalculator\Floor Price Calculator\obj\Debug\netcoreapp2.2\Floor Price Calculator.pdb
